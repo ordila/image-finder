@@ -33,4 +33,5 @@ export interface IApp {
     modalOpen?: boolean;
     modalData?: string;
   };
+  showBtn: boolean;
 }
