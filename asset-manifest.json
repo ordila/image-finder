@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ordila-goit-react-hw-03-image-finder/static/css/main.43ad203e.css",
-    "main.js": "/ordila-goit-react-hw-03-image-finder/static/js/main.cb5c51e0.js",
+    "main.js": "/ordila-goit-react-hw-03-image-finder/static/js/main.1c204bf8.js",
     "index.html": "/ordila-goit-react-hw-03-image-finder/index.html",
     "main.43ad203e.css.map": "/ordila-goit-react-hw-03-image-finder/static/css/main.43ad203e.css.map",
-    "main.cb5c51e0.js.map": "/ordila-goit-react-hw-03-image-finder/static/js/main.cb5c51e0.js.map"
+    "main.1c204bf8.js.map": "/ordila-goit-react-hw-03-image-finder/static/js/main.1c204bf8.js.map"
   },
   "entrypoints": [
     "static/css/main.43ad203e.css",
-    "static/js/main.cb5c51e0.js"
+    "static/js/main.1c204bf8.js"
   ]
 }
